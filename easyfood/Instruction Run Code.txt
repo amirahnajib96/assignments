@@ -1,0 +1,15 @@
+Instruction To Run Code :
+
+Software :
+- Miscosoft Visual Studio 2019 or any editor software.
+
+Run the code:
+- Choose Easy Food from your local disk.
+
+View:
+- Go to terminal.
+- Select directory Easy Food.
+- Taip 'live-server public' or right-click and choose 'View in Browser'.
+
+Thank you 
+
